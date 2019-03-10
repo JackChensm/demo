@@ -102,5 +102,8 @@ ___
 <video src="https://jsmov2.a.yximgs.com/bs2/newWatermark/MTA2NjcyMzg4NzY_zh_4.mp4" autoplay></video>
 
 ## 表格
+| 姓名 | 年龄 | 身高 |
+|-----|------|------|
+|  张三| 30   | 200  |
 
 ## GFM
