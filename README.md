@@ -86,3 +86,21 @@ so please pay for money.
 
 [baidu-logo]:https://www.baidu.com/img/bd_logo1.png 'baidu'
 [mcu]:images/mcu.png
+
+## 水平分割线
+<hr>dd
+---
+<br>
+***
+<br>
+___
+
+## HTML
+<h5 style="color:red;font-size:30px;" align="center">hello,world</h5>
+<p align="center">hello,world</p>
+
+<video src="https://jsmov2.a.yximgs.com/bs2/newWatermark/MTA2NjcyMzg4NzY_zh_4.mp4" autoplay></video>
+
+## 表格
+
+## GFM
