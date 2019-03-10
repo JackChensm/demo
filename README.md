@@ -120,3 +120,12 @@ menus
 <!-- auot -->
 [baidu-table-logo]:https://www.baidu.com/img/bd_logo1.png
 [baidu-link]:https://www.baidu.com
+
+## 综合场景
+
+[![bd](http://www.baidu.com/img/bd_logo1.png 'baidu')](http://www.baidu.com)
+
+[![bd][baidu-i-logo]][baidu-i]
+<!-- link -->
+[baidu-i]:http://www.baidu.com
+[baidu-i-logo]:http://www.baidu.com/img/bd_logo1.png
