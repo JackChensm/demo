@@ -126,6 +126,9 @@ menus
 [![bd](http://www.baidu.com/img/bd_logo1.png 'baidu')](http://www.baidu.com)
 
 [![bd][baidu-i-logo]][baidu-i]
+
+[百度][baidu-i]
+[百度搜索][baidu-i]
 <!-- link -->
 [baidu-i]:http://www.baidu.com
 [baidu-i-logo]:http://www.baidu.com/img/bd_logo1.png
