@@ -103,7 +103,13 @@ ___
 
 ## 表格
 | 姓名 | 年龄 | 身高 |
-|-----|------|------|
+|-----|:------:|------|
 |  张三| 30   | 200  |
+| **李四** | 90055325325235235235235235 |190 |
+| 张飞 | ![][baidu-table-logo][baidu-link] | 900 |
 
 ## GFM
+
+<!-- auot -->
+[baidu-table-logo]:https://www.baidu.com/img/bd_logo1.png
+[baidu-link]:https://www.baidu.com
