@@ -110,9 +110,9 @@ ___
 
 ## GFM
 menus
--  [ x ] open
+-  [x] open
 -  [ ] close
--  [ x ] create
+-  [x] create
 -  [ ] new
 <!-- auot -->
 [baidu-table-logo]:https://www.baidu.com/img/bd_logo1.png
