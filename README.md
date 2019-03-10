@@ -114,6 +114,9 @@ menus
 -  [ ] close
 -  [x] create
 -  [ ] new
+
+## emoji
+:factory: 
 <!-- auot -->
 [baidu-table-logo]:https://www.baidu.com/img/bd_logo1.png
 [baidu-link]:https://www.baidu.com
