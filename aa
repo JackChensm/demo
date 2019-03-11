@@ -3,3 +3,7 @@
 333
 555
 666
+function 666(x)
+{
+	console.log(x);
+}
